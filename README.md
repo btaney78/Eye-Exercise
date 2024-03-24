@@ -4,7 +4,7 @@
 
 **Instructions on how to run on your machine:**  
 To run this program you can do one of two things:
-1. Click on this link to run the program:  []()
+1. Click on this link to run the program:  [Eye Exercise Demo](https://btaney78.github.io/Eye-Exercise/)
 2. Download the following files in this repository: index.html, styles.css, & eyes.js. Save them locally, and then load the index.html file into an Internet browser (Chrome, etc.).
 
 **Roadmap for future improvements:**  
